@@ -10,8 +10,7 @@
         }
       }
       else {
-              //header("Location: /TraineeManagement/index-fail.html");
-              //header("Location: /TraineeManagement/main/blank.html");
+              header("Location: /TraineeManagement/index-fail.html");
       }
     }
 ?>
